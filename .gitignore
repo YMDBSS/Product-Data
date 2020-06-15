@@ -1,2 +1,4 @@
 /.vscode
-/data
+/.venv/Lib
+/.venv/Include
+/.venv/nltk_data
